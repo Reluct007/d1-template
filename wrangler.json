@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "d1-template",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "a02a5a71-3be3-4982-b4cb-48144191859d",
+      "database_name": "easyauto-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
